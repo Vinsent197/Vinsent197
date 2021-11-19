@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in Data Sciense and Analistycs (Pyhton)
 - 🌱 I’m currently learning Data Sciense courses in Yandex Praktikum and some self-learning courses about same thematic.
-- 🇬🇧 I am also learning English now, so I apologize for literacy, so far this is not my strong point 😶
 
 - 📧 vinsent197@gmail.com
 
